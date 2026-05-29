@@ -1,4 +1,4 @@
-# Taller Práctico - Ecuaciones Diferenciales de Orden Superior
+# Taller Práctico - Ecuaciones Diferenciales de Orden Superior-codigos resueltos en spyder python
 
 Proyecto desarrollado para la asignatura de Ecuaciones Diferenciales  
 Universidad de La Guajira – Ingeniería de Sistemas
